@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matriz3x5", "Matriz3x5\Matriz3x5.csproj", "{0D03BB19-5EBA-45FF-BFD6-A1BB746961CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matriz5x5", "Matriz5x5\Matriz5x5.csproj", "{2D37BB88-81EA-4919-A9A4-2AC9641B3EF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrecoProdutoValid", "PrecoProdutoValid\PrecoProdutoValid.csproj", "{06C7CC3B-4F90-400F-8412-A43043247CBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JogoDaVelha", "JogoDaVelha\JogoDaVelha.csproj", "{14CDFBF4-B87F-4AB0-8B56-19CAF9393E18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nome10Alunos", "Nome10Alunos\Nome10Alunos.csproj", "{87615283-1BCC-4731-B1E3-ADB7BD22F34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParesVetor", "ParesVetor\ParesVetor.csproj", "{063044BB-F22E-4916-851F-371CD2D412EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D03BB19-5EBA-45FF-BFD6-A1BB746961CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D03BB19-5EBA-45FF-BFD6-A1BB746961CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D03BB19-5EBA-45FF-BFD6-A1BB746961CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D03BB19-5EBA-45FF-BFD6-A1BB746961CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D37BB88-81EA-4919-A9A4-2AC9641B3EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D37BB88-81EA-4919-A9A4-2AC9641B3EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D37BB88-81EA-4919-A9A4-2AC9641B3EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D37BB88-81EA-4919-A9A4-2AC9641B3EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C7CC3B-4F90-400F-8412-A43043247CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C7CC3B-4F90-400F-8412-A43043247CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C7CC3B-4F90-400F-8412-A43043247CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C7CC3B-4F90-400F-8412-A43043247CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CDFBF4-B87F-4AB0-8B56-19CAF9393E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CDFBF4-B87F-4AB0-8B56-19CAF9393E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CDFBF4-B87F-4AB0-8B56-19CAF9393E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CDFBF4-B87F-4AB0-8B56-19CAF9393E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87615283-1BCC-4731-B1E3-ADB7BD22F34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87615283-1BCC-4731-B1E3-ADB7BD22F34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87615283-1BCC-4731-B1E3-ADB7BD22F34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87615283-1BCC-4731-B1E3-ADB7BD22F34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063044BB-F22E-4916-851F-371CD2D412EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063044BB-F22E-4916-851F-371CD2D412EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063044BB-F22E-4916-851F-371CD2D412EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063044BB-F22E-4916-851F-371CD2D412EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CDC76E4-F27B-46CC-9DF5-5C2444F10BDF}
+	EndGlobalSection
+EndGlobal
